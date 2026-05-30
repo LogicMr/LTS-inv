@@ -1,0 +1,18 @@
+[19-Feb-2026 09:11:15 Africa/Nairobi] Attempting login for username: Stephen
+[19-Feb-2026 09:11:15 Africa/Nairobi] User found: yes
+[19-Feb-2026 09:11:16 Africa/Nairobi] Password verified successfully
+[19-Feb-2026 09:11:16 Africa/Nairobi] Session variables set: {"user_id":2,"username":"Stephen","full_name":"Stephen Arope","role_id":1,"role_name":"Admin","login_time":1771481476}
+[19-Feb-2026 09:11:16 Africa/Nairobi] Login successful for user: Stephen, BASE_URL: http://192.168.100.120/LTS
+[19-Feb-2026 09:11:16 Africa/Nairobi] Redirecting to: http://192.168.100.120/LTS/admin/dashboard.php
+[19-Feb-2026 09:12:09 Africa/Nairobi] Attempting login for username: Bennedict
+[19-Feb-2026 09:12:09 Africa/Nairobi] User found: yes
+[19-Feb-2026 09:12:09 Africa/Nairobi] Password verified successfully
+[19-Feb-2026 09:12:09 Africa/Nairobi] Session variables set: {"user_id":3,"username":"Bennedict","full_name":"Bennedict Ndokeji","role_id":3,"role_name":"Cashier","login_time":1771481529}
+[19-Feb-2026 09:12:09 Africa/Nairobi] Login successful for user: Bennedict, BASE_URL: http://192.168.100.120/LTS
+[19-Feb-2026 09:12:09 Africa/Nairobi] Redirecting to: http://192.168.100.120/LTS/cashier/dashboard.php
+[09-Mar-2026 15:01:41 Africa/Nairobi] Attempting login for username: Stephen
+[09-Mar-2026 15:01:41 Africa/Nairobi] User found: yes
+[09-Mar-2026 15:01:41 Africa/Nairobi] Password verified successfully
+[09-Mar-2026 15:01:41 Africa/Nairobi] Session variables set: {"user_id":2,"username":"Stephen","full_name":"Stephen Arope","role_id":1,"role_name":"Admin","login_time":1773057701}
+[09-Mar-2026 15:01:41 Africa/Nairobi] Login successful for user: Stephen, BASE_URL: http://192.168.1.137/LTS
+[09-Mar-2026 15:01:41 Africa/Nairobi] Redirecting to: http://192.168.1.137/LTS/admin/dashboard.php
